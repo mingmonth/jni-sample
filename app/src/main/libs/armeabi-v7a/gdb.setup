@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory C:/Users/ys992/AppData/Local/Android/Sdk/ndk/20.1.5948944/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot C:/Users/ys992/AppData/Local/Android/Sdk/ndk/20.1.5948944/build//../sources/cxx-stl/system/include jni
